@@ -1,13 +1,12 @@
 ## Description of Changes
-
 <!-- Description of PR that completes issue here -->
 
-## Jira Ticket
 
+## Jira Ticket
 <!-- What is the ticket number that correlates to this PR -->
 
-## Testing
 
+## Testing
 - [ ] Run database migrations (if applicable)
 - [ ] Unit testing updated to cover changes
 - [ ] Unit tests pass
